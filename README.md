@@ -1,6 +1,6 @@
 HI THERE :wave:
 
-I'm Hawa Said, a second-year Software Engineering Student at Concordia University!
+I'm Hawa, a second-year Software Engineering Student at Concordia University!
 
 :woman_technologist: Work Experience:
 None yet! I am currently seeking an internship :smile:
