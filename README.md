@@ -8,4 +8,4 @@ None yet! I am currently seeking an internship :smile:
 :rocket: Currently Working on:
 Developing my website(Portfolio)
 
-How to reach me: hawa21244@gmail.com 
+How to reach me: hawa21244@gmail.com & https://www.linkedin.com/in/hawa-afnane-said-07935b2a7/
