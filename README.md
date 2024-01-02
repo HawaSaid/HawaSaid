@@ -6,6 +6,6 @@ I'm Hawa, a second-year Software Engineering Student at Concordia University!
 None yet! I am currently seeking an internship :smile:
 
 :rocket: Currently Working on:
-Developing my website(Portfolio)
+Developing my Portfolio
 
 How to reach me: hawa21244@gmail.com & <a href="https://www.linkedin.com/in/hawa-afnane-said-07935b2a7/">LinkedIn</a>
