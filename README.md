@@ -10,5 +10,5 @@ Developing my Portfolio
 
 How to reach me: hawa21244@gmail.com & <a href="https://www.linkedin.com/in/hawa-afnane-said-07935b2a7/">LinkedIn</a>
 
-##Skills
+## Skills
 Java, JavaScript, HTML, CSS, Bootstrap, React, Python, C
