@@ -1,4 +1,3 @@
-###Introduction
 HI THERE :wave:
 
 I'm Hawa, a second-year Software Engineering Student at Concordia University!
@@ -10,5 +9,6 @@ None yet! I am currently seeking an internship :smile:
 Developing my Portfolio
 
 How to reach me: hawa21244@gmail.com & <a href="https://www.linkedin.com/in/hawa-afnane-said-07935b2a7/">LinkedIn</a>
+
 ##Skills
 Java, JavaScript, HTML, CSS, Bootstrap, React, Python, C
