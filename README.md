@@ -6,7 +6,7 @@ I'm Hawa, a second-year Software Engineering Student at Concordia University!
 None yet! I am currently seeking an internship :smile:
 
 :rocket: Currently Working on:
-Developing my Portfolio
+Developing an app for the Headstarter AI Fellowship!
 
 How to reach me: hawaAfnane.engineer@gmail.com & <a href="https://www.linkedin.com/in/hawa-afnane-said-07935b2a7/">LinkedIn</a>
 
