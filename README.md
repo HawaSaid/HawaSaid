@@ -11,4 +11,4 @@ Being part of the Headstarter AI Fellowship!
 How to reach me: hawaAfnane.engineer@gmail.com & <a href="https://www.linkedin.com/in/hawa-afnane-said-07935b2a7/">LinkedIn</a>
 
 ## Skills
-Java, JavaScript, HTML, CSS, Bootstrap, React, Python, C, Node.js
+Java, JavaScript, HTML, CSS, Bootstrap, React.js, Python, C, Node.js, Express.js
