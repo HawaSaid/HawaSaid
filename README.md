@@ -1,7 +1,6 @@
 
 <div align="center">
 
-# Hi there 👋
 <img src="github banner.png" width="100%" alt="Banner">
 
 ### Software Engineer | Full-Stack JS/TS Developer | UI/UX Enthusiast
